@@ -1,1 +1,1 @@
-here is for coading test prac in 'programmers.com'
+here is for cording test prac in 'programmers.com'
